@@ -1,2 +1,2 @@
 # tasker
-a toll to schedule automated tasks 
+a tool to schedule automated tasks 
